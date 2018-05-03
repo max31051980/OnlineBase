@@ -1,0 +1,89 @@
+{
+  "schoolName": "A-class",
+  "group": [
+    {
+      "groupName": "Hustle",
+      "schedule": "Tuesday, Thursday‚ 18:00-19:00",
+      "teacher": {
+        "name": "Evgeniya",
+        "surname": "Senchihina",
+        "lastName": "Anatolievna",
+        "bDay": "09-11-1990"
+      },
+      "students": [
+        {
+          "name": "Anna",
+          "surname": "Virskaya",
+          "lastName": "Aleksandrovna",
+          "bDay": "22-01-1999"
+        },
+        {
+          "name": "Viktoria",
+          "surname": "Asadchaya",
+          "lastName": "Olegovna",
+          "bDay": "23-02-2001"
+        },
+        {
+          "name": "Oleg",
+          "surname": "Mendeleev",
+          "lastName": "Maksimovich",
+          "bDay": "25-07-2004"
+        },
+        {
+          "name": "Anatolii",
+          "surname": "Gurskii",
+          "lastName": "Aleksandrovich",
+          "bDay": "17-10-2005"
+        },
+        {
+          "name": "Olga",
+          "surname": "Pokladok",
+          "lastName": "Viktorovna",
+          "bDay": "18-09-1999"
+        }
+      ]
+    },
+    {
+      "groupName": "Tango",
+      "schedule": "Monday, Wednesday° 18:00-19:00",
+      "teacher": {
+        "name": "Oleg",
+        "surname": "Shahray",
+        "lastName": "Glebovich",
+        "bDay": "22-07-1991"
+      },
+      "students": [
+        {
+          "name": "Anastasiya",
+          "surname": "Strockaya",
+          "lastName": "Vitalievna",
+          "bDay": "22-01-1999"
+        },
+        {
+          "name": "Oleg",
+          "surname": "Kazakov",
+          "lastName": "Mihailovich",
+          "bDay": "23-02-2001"
+        },
+        {
+          "name": "Janna",
+          "surname": "Pileckaya",
+          "lastName": "Aleksandrovna",
+          "bDay": "25-07-2004"
+        },
+        {
+          "name": "Mihail",
+          "surname": "Kurnosik",
+          "lastName": "Vladimirovich",
+          "bDay": "17-10-2005"
+        },
+        {
+          "name": "Victoriya",
+          "surname": "Varvashenya",
+          "lastName": "Aleksandrovna",
+          "bDay": "18-09-1999"
+        }
+      ]
+    }
+  ]
+}
